@@ -5,7 +5,7 @@ A machine learning project that detects fraudulent credit card transactions from
 
 ## Problem
 
-Credit card fraud is rare. Only **0.17%** of transactions in this dataset are fraudulent. Standard models would simply predict "not fraud" for everything and still get 99.8% accuracy. This project tackles the class imbalance problem
+Credit card fraud is rare. Only **0.17%** of transactions in this dataset are fraudulent. Standard models would simply predict "not fraud" for everything and still get 99.8% accuracy. This project tackles the class imbalance problem.
 
 ## Dataset
 
