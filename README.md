@@ -1,7 +1,7 @@
 
 # Credit Card Fraud Analysis & Detection
 
-A machine learning project that detects fraudulent credit card transactions from a highly imbalanced dataset using Logistic Regression.
+A machine learning project that detects fraudulent credit card transactions from a highly imbalanced dataset using Logistic Regression
 
 ## Problem
 
