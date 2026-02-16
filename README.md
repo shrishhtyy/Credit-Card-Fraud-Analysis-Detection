@@ -17,11 +17,11 @@ Credit card fraud is rare. Only **0.17%** of transactions in this dataset are fr
 
 ## Approach
 
-1. **Data exploration** | Analysed distribution of legitimate vs fraudulent transactions, compared statistical measures (mean Amount for fraud vs legit)
-2. **Under-sampling** | Sampled 492 legitimate transactions to match the 492 fraud cases, creating a balanced dataset of 984 transactions
-3. **Train/test split** | 80/20 stratified split to maintain class balance
-4. **Model training** | Logistic Regression on the balanced dataset
-5. **Evaluation** | Accuracy on both training and test data
+1. **Data exploration**: Analysed distribution of legitimate vs fraudulent transactions, compared statistical measures (mean Amount for fraud vs legit)
+2. **Under-sampling**: Sampled 492 legitimate transactions to match the 492 fraud cases, creating a balanced dataset of 984 transactions
+3. **Train/test split**: 80/20 stratified split to maintain class balance
+4. **Model training**: Logistic Regression on the balanced dataset
+5. **Evaluation**: Accuracy on both training and test data
 
 ## Results
 
